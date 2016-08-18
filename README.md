@@ -2,4 +2,4 @@
 
 A brief exploration of Anscombe's Quartet in R using a Jupyter Notebook
 
-### [Read it online here](http://nbviewer.ipython.org/urls/https://raw.githubusercontent.com/MarkPratley/Anscombes-Quartet-Jupyter/master/Anscombes_Quartet-Jupyter.ipynb)
+### [Read it online here](http://nbviewer.jupyter.org/github/MarkPratley/Anscombes-Quartet-Jupyter/blob/master/Anscombes_Quartet-Jupyter.ipynb)
